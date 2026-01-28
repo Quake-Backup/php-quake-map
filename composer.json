@@ -24,7 +24,7 @@
         }
     ],
     "require": {
-        "pear/Math_Vector": "dev-master",
+        "pear/math_vector": "dev-master",
         "niehztog/math_plane": "dev-master"
     },
     "require-dev": {
